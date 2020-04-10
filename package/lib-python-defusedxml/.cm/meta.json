@@ -22,7 +22,7 @@
     "linux"
   ],
   "process_script": "install",
-  "soft_uoa": "13fe4a2c64a49824",
+  "soft_uoa": "16aec32fa46b38da",
   "suggested_path": "lib-python-defusedxml",
   "tags": [
     "lib",
