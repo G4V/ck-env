@@ -30,12 +30,6 @@
       "sort": 120,
       "tags": "lib,python-package,sox"
     },
-    "lib-python-pandas": {
-      "local": "yes",
-      "name": "Python Pandas library",
-      "sort": 120,
-      "tags": "lib,python-package,pandas"
-    },
     "python": {
       "local": "yes",
       "name": "Python interpreter",
